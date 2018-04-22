@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  student_id: MyString
+  integer,: MyString
+  course_code: MyString
+  integer,: MyString
+  grade: MyString
+  float: MyString
+
+two:
+  student_id: MyString
+  integer,: MyString
+  course_code: MyString
+  integer,: MyString
+  grade: MyString
+  float: MyString
